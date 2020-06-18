@@ -21,7 +21,7 @@
         "bluetooth": "藍牙",
         "headphones": "耳機",
         "phone": "電話",
-        "speaker": "發言者",
+        "speaker": "擴音",
         "none": "沒有可用的音效裝置"
     },
     "audioOnly": {
@@ -56,7 +56,7 @@
             "title": "輸入名稱來使用交談"
         },
         "privateNotice": "私人訊息傳送至 {{recipient}}",
-        "title": "交談",
+        "title": "文字訊息",
         "you": "自己"
     },
     "connectingOverlay": {
@@ -620,13 +620,13 @@
             "moreOptions": "顯示更多選項"
         },
         "addPeople": "新增人員到您的通話中",
-        "audioOnlyOff": "停用低頻寬模式",
-        "audioOnlyOn": "啟用低頻寬模式",
-        "audioRoute": "選擇聲音裝置",
-        "authenticate": "認證",
-        "callQuality": "管理影像品質",
-        "chat": "開啟/關閉 交談",
-        "closeChat": "關閉交談",
+        "audioOnlyOff": "關閉僅用音訊模式",
+        "audioOnlyOn": "僅用音訊模式",
+        "audioRoute": "選擇聲音輸出方式",
+        "authenticate": "驗證",
+        "callQuality": "管理通話品質",
+        "chat": "開啟/關閉 聊天",
+        "closeChat": "關閉聊天",
         "documentClose": "關閉分享的文件檔案",
         "documentOpen": "開啟分享的文件檔案",
         "download": "下載我們的 APPs",
